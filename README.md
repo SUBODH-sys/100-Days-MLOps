@@ -1,9 +1,5 @@
 # 🚀 100 Days of MLOps — KodeKloud Challenge
 
-![Progress](https://shields.io)
-![Platform](https://shields.io)
-![Focus](https://shields.io)
-
 This repository documents my daily hands-on solutions, scripts, and infrastructure configurations for the **[100 Days of MLOps](https://engineer.kodekloud.com/practice)** challenge on the **KodeKloud** platform.
 
 ## 🎯 Goal
