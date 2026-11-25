@@ -16,8 +16,8 @@ Bridge the gap between machine learning experimentation and production-ready AI 
 
 | Day | Topic / Task | Solution | Tools & Stack |
 | :--- | :--- | :--- | :--- |
-| **Day 01** | Clarify Bugs with AI | [clarify_bug.py](./task-01/clarify_bug.py) | Python, OpenAI SDK, Env Vars |
-| **Day 02** | *In progress...* | — | — |
+| **Task 01** | Clarify Bugs with AI | [clarify_bug.py](./task-01/clarify_bug.py) | Python, OpenAI SDK, Env Vars |
+| **Task 02** | *In progress...* | — | — |
 
 ---
 
@@ -25,7 +25,7 @@ Bridge the gap between machine learning experimentation and production-ready AI 
 
 ```text
 100-days-of-mlops/
-├── day-01/
+├── task-01/
 │   └── clarify_bug.py      # Converts informal bug reports into structured issue summaries
 ├── .gitignore              # Excludes .env, virtual environments, and cache files
 └── README.md               # Challenge overview and daily progress tracker
