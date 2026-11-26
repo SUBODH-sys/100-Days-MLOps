@@ -34,5 +34,3 @@ if __name__ == "__main__":
     bug_report = "App keeps crashing when I click save."
     response = clarify_bug(bug_report)
     print(response)
-
-I want to save my progress one-by-one in github how to do it
