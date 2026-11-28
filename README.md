@@ -1,4 +1,4 @@
-# 🚀 100 Days of MLOps — KodeKloud Challenge
+# 🚀 100 Days of MLOps KodeKloud Challenge
 
 This repository documents my daily hands-on solutions, scripts, and infrastructure configurations for the **[100 Days of MLOps](https://engineer.kodekloud.com/practice)** challenge on the **KodeKloud** platform.
 
