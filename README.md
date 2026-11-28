@@ -4,7 +4,7 @@ This repository documents my daily hands-on solutions, scripts, and infrastructu
 
 ## 🎯 Goal
 Bridge the gap between machine learning experimentation and production-ready AI systems by building daily, reproducible workflows covering:
-- **LLM Integration & Prompt Engineering** (OpenAI SDK, structured outputs)
+- **LLM Integration & Prompt Engineering** (OpenAI SDK, chatbots, structured outputs)
 - **Data & Experiment Versioning** (DVC, MLflow)
 - **Model Packaging & Serving** (Docker, FastAPI, BentoML)
 - **Orchestration & CI/CD** (Kubernetes, Argo Workflows, GitHub Actions)
@@ -12,21 +12,30 @@ Bridge the gap between machine learning experimentation and production-ready AI 
 
 ---
 
-## 📅 Daily Progress Log
+## 📅 Daily Progress Log — Level 1: AI (`2/10 Tasks Completed`)
 
-| Day | Topic / Task | Solution | Tools & Stack |
-| :--- | :--- | :--- | :--- |
-| **Task 01** | Clarify Bugs with AI | [clarify_bug.py](./task-01/clarify_bug.py) | Python, OpenAI SDK, Env Vars |
-| **Task 02** | *In progress...* | — | — |
+| Task | Topic | Solution |
+| :--- | :--- | :--- |
+| **Task 01** | Clarify Bugs with AI | [clarify_bugs.py](./AI/clarify_bugs.py) |
+| **Task 02** | Create an AI Chatbot | [create_chatbot.py](./AI/create_chatbot.py) |
+| **Task 03** | Generate Code Comments with AI | *In progress...* |
+| **Task 04** | Perform Comparisons with AI | *Locked* |
+| **Task 05** | Convert Data with AI | *Locked* |
+| **Task 06** | Use AI as an Email Assistant | *Locked* |
+| **Task 07** | Extract Information with AI | *Locked* |
+| **Task 08** | Generate Haikus with AI | *Locked* |
+| **Task 09** | Summarize Text with AI | *Locked* |
+| **Task 10** | Translate Content with AI | *Locked* |
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-100-days-of-mlops/
-├── task-01/
-│   └── clarify_bug.py      # Converts informal bug reports into structured issue summaries
+100-Days-MLOps/
+├── AI/
+│   ├── clarify_bugs.py     # Converts informal bug reports into structured issue summaries
+│   └── create_chatbot.py   # Implements a chatbot using the OpenAI API
 ├── .gitignore              # Excludes .env, virtual environments, and cache files
 └── README.md               # Challenge overview and daily progress tracker
 ```
